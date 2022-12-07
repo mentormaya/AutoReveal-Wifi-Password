@@ -1,0 +1,13 @@
+WiFiPasswordReveal v1.0 (c) ajaysingh.com.np - The Batchography book 
+ 
+Reveal all saved WiFi passwords Batch file script v1.0 (c) ajaysingh.com.np 
+ 
+Inspired by the book "Batchography: The Art of Batch Files Programming" 
+ 
+WiFi: [Engineer] Password: [keh1n1x@19] 
+WiFi: [Test-Device Fallback Hotspot] Password: [fallback@321] 
+WiFi: [Kunj@BinaRaj] Password: [keh1n1x@19] 
+WiFi: [Janakpur-Bedroom-Mainboard] Password: [fallback@321] 
+WiFi: [ManagementAP] Password: [mgmtadmin] 
+WiFi: [pwned] Password: [deauther] 
+WiFi: [I@mHeRe] Password: [connectme] 
